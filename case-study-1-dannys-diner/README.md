@@ -47,7 +47,7 @@ The following business questions are answered using SQL:
 
 ## 📁 Files
 
-- [`case-study-1-dannys-diner.sql`](./case-study-1-dannys-diner.sql) – All SQL queries used to solve the case
+- [`Case #1.sql`](./case-study-1-dannys-diner.sql) – All SQL queries used to solve the case
 - [`README.md`](./README.md) – This file
 
 ---
